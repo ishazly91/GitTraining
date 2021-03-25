@@ -1,0 +1,5 @@
+1. Navigate to submodule_1
+2. create a text file named after you and add dummy data
+3. navigate back to the main repo
+4. commit your changes 
+5. push
